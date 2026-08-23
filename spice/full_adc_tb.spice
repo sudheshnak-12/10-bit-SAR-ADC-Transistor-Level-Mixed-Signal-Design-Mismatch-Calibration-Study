@@ -1,0 +1,13 @@
+* 10-bit SAR ADC top-level SPICE testbench
+*
+* TODO:
+* - Instantiate finalized sampling network
+* - Instantiate capacitor DAC
+* - Instantiate dynamic comparator
+* - Connect SAR control
+* - Add ramp and sine-wave testbenches
+* - Add Monte Carlo analysis
+* - Add PVT/corner analysis
+*
+.title 10-bit SAR ADC
+.end
